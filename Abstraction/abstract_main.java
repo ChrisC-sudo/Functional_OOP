@@ -1,3 +1,6 @@
+/* Abstraction is basically hiding the execution of the internal/sensitive details 
+ * from the user and showing the important and required functionality to the users.*/
+
 package Abstraction;
 
 public class abstract_main extends abstract_example{
